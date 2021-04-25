@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentView
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="SharedLibrary.Controls.MyControl"
+    Margin="20">
+    <ContentView.Content>
+        <Frame CornerRadius="30">
+            <Label Text="My Control" HorizontalOptions="Center"></Label>
+        </Frame>
+    </ContentView.Content>
+</ContentView>
